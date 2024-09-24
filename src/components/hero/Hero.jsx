@@ -53,7 +53,7 @@ const Hero = () => {
               <span> Hire Me</span>
             </a> */}
             <a
-              href="https://drive.google.com/file/d/1f_HvWoopRkDbLmhNfUzSxa_ZEMDPpcHR/view?usp=sharing"
+              href="https://drive.google.com/file/d/1zwRmBXZ_X0X5CjLomGzzdMswDEgzMlEN/view?usp=sharing"
               className="flex items-center gap-2 border- text-[1rem] bg-white border-black px-7 py-2 sm:px-6 rounded-lg font-bold  hover:text-yellow-500"
               download
               target="_blank"
